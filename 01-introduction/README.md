@@ -27,6 +27,13 @@ This section is divided into three key chapters:
   - [Understanding the Limits of DDD](1.3-area-of-application/Understanding-the-Limits-of-Domain-Driven-Design.md)
   - [Visual diagrams and illustrations](images/)
 
+### [1.4 Why Domain-Driven Design?](1.4-why-domain-driven-design/) 
+*Duration: TBD* | **📍 Ready for Content**
+- Fundamental reasons for adopting DDD
+- Benefits and advantages of DDD approach
+- Real-world justifications for DDD implementation
+- **Status:** Awaiting images and transcript
+
 ## 🎯 Learning Objectives
 
 By the end of this section, you will understand:
@@ -63,6 +70,7 @@ This section includes comprehensive visual materials located in the [`images/`](
 - **Previous**: [Course Overview](../README.md)
 - **Next**: Section 2 (Coming Soon)
 - **Start Learning**: [1.1 Getting Started](1.1-getting-started/)
+- **Current Work**: [1.4 Why Domain-Driven Design?](1.4-why-domain-driven-design/) *(Ready for content)*
 
 ---
 

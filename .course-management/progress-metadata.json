@@ -1,0 +1,71 @@
+{
+  "course": {
+    "title": "Domain-Driven Design in Practice",
+    "source": "Pluralsight",
+    "url": "https://app.pluralsight.com/library/courses/domain-driven-design-in-practice",
+    "totalDuration": "TBD",
+    "lastUpdated": "2025-10-24",
+    "currentSection": 1,
+    "currentChapter": "1.4"
+  },
+  "sections": {
+    "01-introduction": {
+      "title": "Introduction",
+      "duration": "29m 31s",
+      "status": "in-progress",
+      "chapters": {
+        "1.1": {
+          "title": "Getting Started",
+          "duration": "1m 20s",
+          "status": "completed",
+          "hasTranscript": false,
+          "hasImages": false,
+          "lastUpdated": "2025-10-24"
+        },
+        "1.2": {
+          "title": "Course Outline and Prerequisites",
+          "duration": "2m 17s",
+          "status": "completed",
+          "hasTranscript": false,
+          "hasImages": false,
+          "lastUpdated": "2025-10-24"
+        },
+        "1.3": {
+          "title": "Area of Application for Domain-Driven Design",
+          "duration": "3m 40s",
+          "status": "completed",
+          "hasTranscript": true,
+          "hasImages": true,
+          "imageCount": 14,
+          "lastUpdated": "2025-10-24"
+        },
+        "1.4": {
+          "title": "Why Domain-Driven Design?",
+          "duration": "TBD",
+          "status": "ready-for-content",
+          "hasTranscript": false,
+          "hasImages": false,
+          "imageCount": 0,
+          "lastUpdated": "2025-10-24"
+        }
+      }
+    }
+  },
+  "templates": {
+    "chapterStructure": [
+      "README.md",
+      "transcript-full.md",
+      "key-points.md",
+      "images/",
+      "metadata.json"
+    ],
+    "processingSteps": [
+      "create-folder-structure",
+      "upload-images",
+      "process-transcript",
+      "extract-key-points",
+      "update-navigation",
+      "commit-changes"
+    ]
+  }
+}

@@ -33,6 +33,7 @@ Complete foundational section covering:
 | [1.1](01-introduction/1.1-getting-started/) | Getting Started | 1m 20s | Course introduction and orientation |
 | [1.2](01-introduction/1.2-course-outline-prerequisites/) | Course Outline and Prerequisites | 2m 17s | Course structure and requirements |
 | [1.3](01-introduction/1.3-area-of-application/) | Area of Application for DDD | 3m 40s | When to use DDD and when not to |
+| [1.4](01-introduction/1.4-why-domain-driven-design/) | Why Domain-Driven Design? | TBD | **📍 Ready for content** |
 
 ### Future Sections
 *Coming Soon - Course content will be added as we progress*

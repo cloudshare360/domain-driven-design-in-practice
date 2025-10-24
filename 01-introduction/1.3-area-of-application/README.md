@@ -53,6 +53,7 @@ This chapter includes several diagrams that illustrate the concepts:
 ![Architecture Decisions](images/image-13.png)
 
 ## Resources
+- [Next: Why Domain-Driven Design?](../1.4-why-domain-driven-design/README.md)
 - [Previous: Course Outline and Prerequisites](../1.2-course-outline-prerequisites/README.md)
 - [Back to Introduction](../README.md)
 - [Detailed Analysis: Understanding the Limits of DDD](Understanding-the-Limits-of-Domain-Driven-Design.md)
