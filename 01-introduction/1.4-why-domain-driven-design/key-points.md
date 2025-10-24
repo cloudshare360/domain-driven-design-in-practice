@@ -48,6 +48,16 @@
 - **🔄 Continuous simplification** - ongoing effort to reduce complexity
 - **🎯 Domain focus** - separates business logic from technical concerns
 
+## 🎯 Visual Learning Integration
+
+### Understanding Through Images
+- **📊 YAGNI Diagram**: Shows the waste of speculative development vs. focused current needs
+- **📊 KISS Diagram**: Illustrates the simplicity-to-maintainability relationship  
+- **📊 Combined Principles**: Demonstrates YAGNI (WHAT to build) + KISS (HOW to build)
+- **📊 DDD Integration**: Visualizes how DDD provides structure while maintaining simplicity
+
+> 💡 **Study Tip**: Review the [visual transcript](transcript-full.md) where each concept is explained alongside its corresponding diagram for maximum comprehension.
+
 ## 🎯 Interview-Ready Talking Points
 
 ### "Why choose DDD?"

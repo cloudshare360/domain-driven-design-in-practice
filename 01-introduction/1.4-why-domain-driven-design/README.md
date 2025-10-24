@@ -22,17 +22,21 @@ By the end of this chapter, you will understand:
 
 ## Visual Resources
 
+The chapter includes four key diagrams that illustrate the relationship between fundamental software principles and Domain-Driven Design:
+
 ![YAGNI Principle](images/image.png)
-*YAGNI (You Are Not Gonna Need It) - Implement only what you need now*
+*YAGNI (You Are Not Gonna Need It) - Demonstrates why implementing only current needs prevents waste and over-engineering*
 
 ![KISS Principle](images/image-1.png)  
-*KISS (Keep It Short and Simple) - Make implementation as simple as possible*
+*KISS (Keep It Short and Simple) - Shows how simple implementations lead to readable, maintainable code*
 
 ![Core Development Principles](images/image-2.png)
-*The two fundamental principles every programmer should follow*
+*Illustrates how YAGNI and KISS work together as the foundation of effective software development*
 
 ![DDD Benefits](images/image-3.png)
-*How Domain-Driven Design complements YAGNI and KISS principles*
+*Visualizes how Domain-Driven Design enhances and complements the YAGNI and KISS principles*
+
+**💡 Reading Tip**: These images are integrated throughout the [complete transcript](transcript-full.md) with contextual explanations to help you follow the concepts visually as you read.
 
 ## Content Structure
 
