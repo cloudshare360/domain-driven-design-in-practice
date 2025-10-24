@@ -1,0 +1,58 @@
+{
+  "chapter": "1.4",
+  "title": "Why Domain-Driven Design?",
+  "section": "01-introduction",
+  "status": "completed",
+  "contentAdded": "2025-10-24",
+  "duration": "TBD",
+  "materials": {
+    "images": {
+      "count": 4,
+      "files": [
+        "image.png",
+        "image-1.png", 
+        "image-2.png",
+        "image-3.png"
+      ],
+      "descriptions": [
+        "YAGNI Principle illustration",
+        "KISS Principle illustration", 
+        "Core Development Principles overview",
+        "DDD Benefits and relationship to principles"
+      ]
+    },
+    "documents": {
+      "readme": "Complete chapter overview with navigation",
+      "transcript": "Full formatted transcript with visual references",
+      "keyPoints": "Interview-ready bullet points and talking points",
+      "processingGuide": "Content processing instructions"
+    }
+  },
+  "keyTopics": [
+    "YAGNI (You Are Not Gonna Need It)",
+    "KISS (Keep It Short and Simple)",
+    "DDD complementing core principles",
+    "Complexity management",
+    "Business logic clarity",
+    "Project failure prevention"
+  ],
+  "learningObjectives": [
+    "Understand YAGNI and KISS principles",
+    "See how DDD enhances fundamental principles", 
+    "Recognize complexity as primary project risk",
+    "Appreciate DDD's value for enterprise applications"
+  ],
+  "navigation": {
+    "previous": "1.3-area-of-application",
+    "next": "TBD",
+    "section": "01-introduction",
+    "course": "root"
+  },
+  "processing": {
+    "transcriptProcessed": true,
+    "bulletPointsExtracted": true,
+    "imagesOrganized": true,
+    "navigationUpdated": true,
+    "metadataCreated": true
+  }
+}

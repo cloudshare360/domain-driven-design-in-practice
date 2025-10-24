@@ -28,11 +28,11 @@ This section is divided into three key chapters:
   - [Visual diagrams and illustrations](images/)
 
 ### [1.4 Why Domain-Driven Design?](1.4-why-domain-driven-design/) 
-*Duration: TBD* | **📍 Ready for Content**
+*Duration: TBD* | **✅ Content Complete**
 - Fundamental reasons for adopting DDD
-- Benefits and advantages of DDD approach
-- Real-world justifications for DDD implementation
-- **Status:** Awaiting images and transcript
+- How DDD complements YAGNI and KISS principles
+- Managing complexity in enterprise applications
+- **Materials:** [Transcript](1.4-why-domain-driven-design/transcript-full.md) | [Key Points](1.4-why-domain-driven-design/key-points.md) | [4 Images](1.4-why-domain-driven-design/images/)
 
 ## 🎯 Learning Objectives
 

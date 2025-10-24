@@ -1,33 +1,61 @@
 # 1.4 Why Domain-Driven Design?
-*Duration: [To be added when content is provided]*
+*Duration: [Duration to be determined from course timing]*
 
 ## Overview
-This chapter explores the fundamental reasons for adopting Domain-Driven Design and the specific benefits it provides to software development projects.
+This chapter explores the fundamental reasons for adopting Domain-Driven Design, focusing on how DDD complements core software development principles and helps manage complexity in enterprise applications.
 
 ## Key Topics
-[To be populated based on transcript content]
+- **YAGNI** (You Are Not Gonna Need It) principle
+- **KISS** (Keep It Short and Simple) principle  
+- How DDD complements fundamental development principles
+- The complexity challenge in modern software development
+- DDD as a solution for managing business logic complexity
+- Why complexity control is critical for project success
 
 ## Learning Objectives
 By the end of this chapter, you will understand:
-- [To be added based on content]
+- The two core principles every programmer should follow (YAGNI & KISS)
+- How Domain-Driven Design enhances these fundamental principles
+- Why uncontrolled complexity is the primary cause of project failure
+- How DDD helps maintain code simplicity and expressiveness
+- The specific value DDD provides for enterprise-level applications
 
 ## Visual Resources
-[Images will be referenced here once added]
+
+![YAGNI Principle](images/image.png)
+*YAGNI (You Are Not Gonna Need It) - Implement only what you need now*
+
+![KISS Principle](images/image-1.png)  
+*KISS (Keep It Short and Simple) - Make implementation as simple as possible*
+
+![Core Development Principles](images/image-2.png)
+*The two fundamental principles every programmer should follow*
+
+![DDD Benefits](images/image-3.png)
+*How Domain-Driven Design complements YAGNI and KISS principles*
 
 ## Content Structure
 
 ### 📝 Available Materials
 - **README.md** - This overview and navigation (current file)
-- **transcript-full.md** - Complete transcript content (to be added)
-- **key-points.md** - Bullet-point summary for interview prep (to be added)
-- **images/** - Visual diagrams and illustrations (to be added)
+- **[transcript-full.md](transcript-full.md)** - Complete formatted transcript with detailed explanations
+- **[key-points.md](key-points.md)** - Interview-ready bullet-point summary
+- **images/** - Visual diagrams illustrating principles (4 images)
 
-### 🎯 Content Status
-- [ ] Images uploaded
-- [ ] Transcript provided
-- [ ] Bullet points extracted
-- [ ] Content organized
-- [ ] Navigation updated
+### 🎯 Quick Access
+- **For detailed study**: [Read the complete transcript](transcript-full.md)
+- **For interview prep**: [Review key bullet points](key-points.md)
+- **For visual learning**: Study the diagrams above
+
+## Key Insights
+
+### The Core Message
+> **DDD's beauty lies in how it complements YAGNI and KISS principles by providing structure to manage business complexity while keeping code simple and maintainable.**
+
+### Critical Understanding
+- **Complexity control** is the most difficult task in modern business software
+- **Uncontrolled complexity growth** is one of the biggest reasons software projects fail
+- **DDD prevents complexity spiral** by focusing on clear business logic expression
 
 ## Navigation
 - [Previous: Area of Application for DDD](../1.3-area-of-application/README.md)
@@ -37,4 +65,4 @@ By the end of this chapter, you will understand:
 
 ---
 
-**📌 Status**: Ready for content - Please provide images and transcript to proceed with content organization.
+**✅ Content Status**: Complete - All materials processed and organized

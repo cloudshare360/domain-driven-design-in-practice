@@ -42,10 +42,10 @@
         "1.4": {
           "title": "Why Domain-Driven Design?",
           "duration": "TBD",
-          "status": "ready-for-content",
-          "hasTranscript": false,
-          "hasImages": false,
-          "imageCount": 0,
+          "status": "completed",
+          "hasTranscript": true,
+          "hasImages": true,
+          "imageCount": 4,
           "lastUpdated": "2025-10-24"
         }
       }
