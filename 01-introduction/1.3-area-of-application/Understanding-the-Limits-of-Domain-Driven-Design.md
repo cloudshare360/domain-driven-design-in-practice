@@ -57,4 +57,4 @@ DDD’s sole objective is to **tackle business logic complexity** by:
 
 > In essence, DDD helps us build systems that **not only solve the problem correctly**, but do so in the **simplest and most maintainable way possible**—*when the problem itself is domain-rich*.
 
-[Details explaination](/docs/Understanding-the-Limits-of-Domain-Driven-Design.md)
+[Details explanation](./Understanding-the-Limits-of-Domain-Driven-Design.md)
